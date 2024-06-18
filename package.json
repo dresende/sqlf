@@ -1,0 +1,6 @@
+{
+	"name"         : "sqlf",
+	"version"      : "0.0.0",
+	"type"         : "module",
+	"dependencies" : {}
+}
